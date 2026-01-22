@@ -1,0 +1,21 @@
+commit 79ab11a108acb01f9ae28f817ebb48795d39c319
+Author: Jorge <j4carmon@gmail.com>
+Date:   Thu Jan 22 13:28:56 2026 -0800
+
+    Commit message for commit
+
+commit 69eed5624c5bbc20f9d52ab976475ec89623f005
+Author: Vayle-Vera-Cruz <136762210+Vayle-Vera-Cruz@users.noreply.github.com>
+Date:   Thu Jan 22 13:17:45 2026 -0800
+
+    Create Exercises
+
+commit f105fb2ff90ed8a39d54a5204efbe80508402355
+Author: Vayle-Vera-Cruz <136762210+Vayle-Vera-Cruz@users.noreply.github.com>
+Date:   Thu Jan 22 13:13:55 2026 -0800
+
+    Initial commit
+origin	https://github.com/Vayle-Vera-Cruz/chem269-git-route-008.git (fetch)
+origin	https://github.com/Vayle-Vera-Cruz/chem269-git-route-008.git (push)
+origin	https://github.com/Vayle-Vera-Cruz/chem269-git-route-008.git (fetch)
+origin	https://github.com/Vayle-Vera-Cruz/chem269-git-route-008.git (push)
