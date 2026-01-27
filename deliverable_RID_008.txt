@@ -1,3 +1,30 @@
+EXERCISE 3: THE REJECTION
+
+Error Message:
+$ git push
+To https://github.com/Vayle-Vera-Cruz/chem269-git-route-008.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Vayle-Vera-Cruz/chem269-git-route-008.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+
+What is Git protecting?
+Git is protecting the version of the file that was last pushed and making sure that edits and saves arent made unchecked from different people.
+
+Why doesn't Git just overwrite the remote?
+Git wants the end user to determine which version we want to keep. Either partner A and partner B and since we both made edits in the same lines of code, it wants us to decide for ourselfs which edits we want to keep.
+
+Git Log:
+commit 79ab11a108acb01f9ae28f817ebb48795d39c319
+Author: Jorge <j4carmon@gmail.com>
+Date:   Thu Jan 22 13:28:56 2026 -0800
+    Commit message for commit
+[rest of your log...]
+
+
+
 commit 79ab11a108acb01f9ae28f817ebb48795d39c319
 Author: Jorge <j4carmon@gmail.com>
 Date:   Thu Jan 22 13:28:56 2026 -0800
